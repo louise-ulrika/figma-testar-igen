@@ -12,6 +12,11 @@
     letter-spacing: -0.02em;
     color:green;
 }
+section {
+    display: inline-block;
+    
+
+}   
 
 
 .main-title {
@@ -25,5 +30,42 @@
     margin-top: 203px;
     margin-left: 200px;
     font-size: 72px;
-    
+    width :100%
+}
+
+.main-info {
+ 
+      font-family: "Roboto", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+
+                                        font-size: 18px;
+    line-height: 30px;
+    margin-top: 10px;
+    margin-left: 200px;
+    max-width: 495px;
+    letter-spacing: 0.02em;
+    color: #000000;
+    width:100%
+
+}
+.main-btn {
+    width:152px;
+    height:64px;
+    background: #a3dc00;
+    border-radius:6px;
+   font-family: "Roboto", 
+   font-style:normal;
+   font-weight: bold
+   font-size:16px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+    margin-top: 50px;
+    margin-left: 200px;
+    border:none;
+
+    ;
+;
 }
